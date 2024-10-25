@@ -7,7 +7,7 @@ Down below are all six projects explained by chatGPT 3.5.
 
 [
 Friday Project 1 Madlib.
-Explanation of Each Part:
+Explanation of Each Line of Code. 
 
     Define the Template:
         mad_lib_template: A string that contains the structure of the story with placeholders (like [ADJECTIVE], [PLURAL NOUN], etc.) where user inputs will be inserted.
@@ -32,8 +32,22 @@ Explanation of Each Part:
          Run the Game:
         run_mad_lib(): Calls the main function to start the game.
 ]
-
+.
 [
 Friday project 2 powerball number generator.
+Description of Each Line of Code
 
+    import random: This line imports the random module, which provides functions to generate random numbers.
+
+    print("Welcome to the Lottery Number Generator!"): This prints a welcome message to the user.
+
+    print("This program will generate your lottery numbers for you."): This informs the user about the program's purpose.
+
+    4-8. white_ball_x = random.randint(1, 69): Each of these lines generates a random number between 1 and 69 for the five white balls, storing each in a separate variable.
+
+    red_ball = random.randint(1, 26): This line generates a random number between 1 and 26 for the red ball.
+
+    print(f"{white_ball_1} {white_ball_2} {white_ball_3} {white_ball_4} {white_ball_5} {red_ball}"): This prints the five white ball numbers, separated by one space, followed by the red ball number with three spaces in between.
+
+    print("Good luck, and may your numbers be lucky!"): This prints a farewell message to the user.
 ]
