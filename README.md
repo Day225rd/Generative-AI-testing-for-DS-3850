@@ -1,8 +1,12 @@
 # Generative-AI-testing
 Recreating all of our previous projects done while in DS-3850 using chat GPT. 
 
+Why? To test the effectiveness of chatGPT and other generative AI's with writing basic code in Python. And to see the differences in how we wrote the code VS how AI does it with the provided info. 
+
+Down below are all six projects explained by chatGPT 3.5.
+
 [
-Friday Project 1 Madlib
+Friday Project 1 Madlib.
 Explanation of Each Part:
 
     Define the Template:
@@ -29,3 +33,7 @@ Explanation of Each Part:
         run_mad_lib(): Calls the main function to start the game.
 ]
 
+[
+Friday project 2 powerball number generator.
+
+]
