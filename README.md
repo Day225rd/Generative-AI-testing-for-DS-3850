@@ -4,7 +4,7 @@ Recreating all of our previous projects done while in DS-3850 using chat GPT.
 Why? To test the effectiveness of chatGPT and other generative AI's with writing basic code in Python. And to see the differences in how we wrote the code VS how AI does it with the provided info. 
 Down below are all six projects explained by chatGPT 3.5.
 
-[
+
 Friday Project 1 Madlib.
 Explanation of Each Line of Code. 
 
@@ -30,9 +30,7 @@ Explanation of Each Line of Code.
 
          Run the Game:
         run_mad_lib(): Calls the main function to start the game.
-]
-.
-[
+
 Friday project 2 powerball number generator.
 Description of Each Line of Code.
 
@@ -49,9 +47,7 @@ Description of Each Line of Code.
     print(f"{white_ball_1} {white_ball_2} {white_ball_3} {white_ball_4} {white_ball_5} {red_ball}"): This prints the five white ball numbers, separated by one space, followed by the red ball number with three spaces in between.
 
     print("Good luck, and may your numbers be lucky!"): This prints a farewell message to the user.
-]
-.
-[
+
 Friday project 3 Number Guessing Game
 Description of each line of Code.
 
@@ -72,9 +68,7 @@ Description of each line of Code.
     Handling "No" Response: If the user does not want to play, the program prints a farewell message.
     
     Final Farewell Message: Regardless of whether the user played or not, the program ends with a thank-you message.
-]
-.
-[
+
 Friday project 4 Quiz Bowl.
 Description of each line of code.
 
@@ -97,9 +91,7 @@ Description of each line of code.
     Farewell Message:
     
     After all questions have been answered, the program thanks the user for studying.
-]
-.
-[
+
 Friday project 5 Colorful text function.
 Description of each line of code.
 
@@ -116,9 +108,7 @@ Description of each line of code.
     A while loop allows the user to input their color choice and text to be displayed in that color.
     The user can choose to exit the program by typing "exit".
     If the user inputs an invalid color choice, the program prompts them to try again.
-]
-.
-[
+
 Friday project 6 Bank Class. 
 Description of each line of code.
 
